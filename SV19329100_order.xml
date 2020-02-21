@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<SophiaOrder>
+  <Id>SV19329100</Id>
+  <Reference>70192611</Reference>
+  <Description>SAS</Description>
+  <OrderDate>2019-11-06</OrderDate>
+  <DeliveryDate>2019-11-18</DeliveryDate>
+  <OrderLine>
+    <Reference />
+    <Description>MPL036161</Description>
+    <Quantity>3</Quantity>
+    <UnitPrice>18.2</UnitPrice>
+    <Price>54.6</Price>
+  </OrderLine>
+  <OrderLine>
+    <Reference />
+    <Description>OND2000.0125</Description>
+    <Quantity>3</Quantity>
+    <UnitPrice>13.79</UnitPrice>
+    <Price>41.37</Price>
+  </OrderLine>
+  <OrderLine>
+    <Reference />
+    <Description>OND2000.0206</Description>
+    <Quantity>4</Quantity>
+    <UnitPrice>3.31</UnitPrice>
+    <Price>13.24</Price>
+  </OrderLine>
+  <OrderLine>
+    <Reference />
+    <Description>OND2000.0214 Rev A</Description>
+    <Quantity>6</Quantity>
+    <UnitPrice>1.22</UnitPrice>
+    <Price>7.32</Price>
+  </OrderLine>
+  <OrderLine>
+    <Reference />
+    <Description>OND2000.0215</Description>
+    <Quantity>6</Quantity>
+    <UnitPrice>2.21</UnitPrice>
+    <Price>13.26</Price>
+  </OrderLine>
+  <OrderLine>
+    <Reference />
+    <Description>OND2000.0217</Description>
+    <Quantity>3</Quantity>
+    <UnitPrice>18.26</UnitPrice>
+    <Price>54.78</Price>
+  </OrderLine>
+  <OrderLine>
+    <Reference />
+    <Description>OND2000.0414</Description>
+    <Quantity>3</Quantity>
+    <UnitPrice>18.22</UnitPrice>
+    <Price>54.66</Price>
+  </OrderLine>
+  <OrderLine>
+    <Reference />
+    <Description>VBW2000.0273 Rev A</Description>
+    <Quantity>3</Quantity>
+    <UnitPrice>26.29</UnitPrice>
+    <Price>78.87</Price>
+  </OrderLine>
+  <OrderLine>
+    <Reference />
+    <Description>VBW2000.0407</Description>
+    <Quantity>3</Quantity>
+    <UnitPrice>4.34</UnitPrice>
+    <Price>13.02</Price>
+  </OrderLine>
+  <OrderLine>
+    <Reference />
+    <Description>VBW2000.0408 Rev A</Description>
+    <Quantity>3</Quantity>
+    <UnitPrice>4.74</UnitPrice>
+    <Price>14.22</Price>
+  </OrderLine>
+  <OrderLine>
+    <Reference />
+    <Description>VBW2000.0409 Rev C</Description>
+    <Quantity>6</Quantity>
+    <UnitPrice>15.9</UnitPrice>
+    <Price>95.4</Price>
+  </OrderLine>
+  <OrderLine>
+    <Reference />
+    <Description>VBW2000.0410</Description>
+    <Quantity>6</Quantity>
+    <UnitPrice>2.15</UnitPrice>
+    <Price>12.9</Price>
+  </OrderLine>
+  <OrderLine>
+    <Reference />
+    <Description>VBW2000.0411</Description>
+    <Quantity>6</Quantity>
+    <UnitPrice>2.09</UnitPrice>
+    <Price>12.54</Price>
+  </OrderLine>
+  <OrderLine>
+    <Reference />
+    <Description>VBW2000.0412</Description>
+    <Quantity>6</Quantity>
+    <UnitPrice>2.59</UnitPrice>
+    <Price>15.54</Price>
+  </OrderLine>
+  <OrderLine>
+    <Reference />
+    <Description>VBW2000.0413</Description>
+    <Quantity>12</Quantity>
+    <UnitPrice>0.97</UnitPrice>
+    <Price>11.64</Price>
+  </OrderLine>
+  <CertificatePrice>0</CertificatePrice>
+  <PackagingPrice>19.45</PackagingPrice>
+  <TransportPrice>46.19</TransportPrice>
+  <TotalPrice>559</TotalPrice>
+</SophiaOrder>

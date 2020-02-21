@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\zapti\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\zapti\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_ConvertXml.-859329682.00" t="ExcludeRecursive" />
+    <e p="C:\Users\zapti\Desktop\Projects\redmer\ConvertXml" t="IncludeFlat">
+      <e p="ConvertXml" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ConvertXml.csproj" t="IncludeRecursive" />
+        <e p="Form1.cs" t="Include" />
+        <e p="Form1.Designer.cs" t="Include" />
+        <e p="Form1.resx" t="Include" />
+        <e p="Handlers" t="Include">
+          <e p="TranslateHandler.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="Branches.cs" t="Include" />
+          <e p="OriginalXml" t="Include">
+            <e p="SophiaOrder.cs" t="Include" />
+          </e>
+          <e p="TranslatedXml" t="Include">
+            <e p="Bedrijf2.cs" t="Include" />
+            <e p="TranslatedSophiaOrder.cs" t="Include" />
+          </e>
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="ConvertXml.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="ConvertXml.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
